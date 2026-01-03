@@ -1,4 +1,4 @@
-# Write a Python script that takes a list of student marks and sorts them in descending
+# 1. Write a Python script that takes a list of student marks and sorts them in descending
 # order (highest to lowest) using either the sorted() function or the .sort() method.
 
 marks = []
