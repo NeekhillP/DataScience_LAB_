@@ -6,3 +6,4 @@
 - [Lab 2](./Lab%202)
 - [Lab 3](./Lab%203)
 - [Lab 4](./Lab%204)
+- [Lab 5](./Lab%205%20(Pandas))
